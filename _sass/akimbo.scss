@@ -1,0 +1,214 @@
+.site-footer {
+  background-color: $footerColor;
+
+  a {
+    color: $footerTextColor;
+  }
+}
+
+// .site-title-container {
+//   background-color: #ffff00;
+// }
+
+.site-nav {
+  bottom: 5px;
+  text-align: center;
+}
+
+// .site-title {
+//   vertical-align:text-bottom;
+//   background-color: #ffff00;
+// }
+
+.site-header {
+  background-color: $headerColor;
+//  padding-bottom: 10px;
+
+  a.site-title {
+    color: #ffffff;
+  }
+
+  a.page-link {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 14pt;
+    color: #ffffff;
+  }
+
+  .page-separator {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 14pt;
+    color: #ffffff;
+  }
+
+}
+
+a {
+  .contact-list &:hover {
+    text-decoration: none;
+
+    .u-email {
+      text-decoration: underline;
+    }
+  }
+}
+
+ul.contact-list {
+  margin-top: -10px;
+}
+
+.appstore_icon {
+    padding: 4px;
+}
+
+/* ================================
+Intro
+================================= */
+
+#intro {
+    height:500px;
+    width:100%;
+    background-image: url(images/fa-weblogo.png);
+    background-image: -webkit-image-set(url(images/fa-weblogo.png) 1x, url(images/fa-weblogo@2x.png) 2x);
+    background-position:center;
+    background-repeat:no-repeat;
+    overflow-y:hidden;
+    text-align:center;
+    position:relative;
+    background-color: $headerColor;
+}
+
+.intro-text {
+	position:relative;
+	width:100%;
+	margin-top:200px;
+	z-index:1000;
+}
+
+#intro .brand {
+	margin-top: 40px;
+  display: none;
+}
+
+.intro-text h1 a {
+	color:#fff;
+	text-align:center;
+	font-weight: 700;
+	font-size: 40px;
+	line-height:1.1em;
+	padding-top:30px;
+	text-transform: uppercase;
+}
+.intro-text h1 a:hover {
+	text-decoration: none;
+}
+
+.intro-text p span {
+	color:#fff;
+	font-size: 24px;
+	text-align:center;
+	font-weight: 300;
+}
+
+@include media-query($on-palm) {
+  background-color: $footerColor;
+}
+
+.nav-wrapper {
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  margin-top: 10px;
+
+  background-color: $navColor;
+
+  @extend %clearfix;
+
+}
+
+.applist-col-wrapper {
+  @include relative-font-size(0.9375);
+  margin-left: 0;
+  margin-right: 0;
+  @extend %clearfix;
+}
+
+.applist-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  text-align: center
+}
+
+.applist-col-1 {
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
+}
+
+.applist-col-2 {
+  width: -webkit-calc(34% - (#{$spacing-unit} / 2));
+  width:         calc(34% - (#{$spacing-unit} / 2));
+}
+
+.applist-col-3 {
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
+}
+
+.page-separator { display: none; }
+.site-nav {
+  .page-separator {
+    &:not(:last-child) {
+      display: contents;
+    }
+  }
+}
+
+.screenshot {
+  width: 230px;
+  height: auto;
+  border: 0;
+}
+
+
+.appheader-col-wrapper {
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+  margin-left: -$spacing-unit / 2;
+  text-align: left;
+  @extend %clearfix;
+}
+
+.appheader-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+.appheader-col-1 {
+  width: 100px;
+}
+
+.appicon {
+    height:96px;
+    width:96px;
+    background-size:96px;
+    background-position:center;
+    background-repeat:no-repeat;
+    overflow-y:hidden;
+    text-align: center;
+    float: left;
+}
+
+.appicon-1208361501 {
+  background-image: url(app-icons/appicon-1208361501.png);
+  background-image: -webkit-image-set(url(app-icons/appicon-1208361501.png) 1x, url(app-icons/appicon-1208361501@2x.png) 2x);
+}
+
+.appicon-1364294513 {
+  background-image: url(app-icons/appicon-1364294513.png);
+  background-image: -webkit-image-set(url(app-icons/appicon-1364294513.png) 1x, url(app-icons/appicon-1364294513@2x.png) 2x);
+}
+
+.appicon-1401051569 {
+  background-image: url(app-icons/appicon-1401051569.png);
+  background-image: -webkit-image-set(url(app-icons/appicon-1401051569.png) 1x, url(app-icons/appicon-1401051569@2x.png) 2x);
+}

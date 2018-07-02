@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    {%- if page.appid -%}
+    <div class="wrapper">
+      <div class="appheader-col-wrapper">
+        <div class="appheader-col appheader-col-1">
+          <a href="https://itunes.apple.com/us/app/id{{ page.appid }}?mt=8">
+          <div class="appicon appicon-{{ page.appid }}">&nbsp;</div>
+          </a>
+        </div>
+        <div class="appheader-col appheader-col-2">
+          <div><h1 class="post-title">{{ page.title | escape }}</h1></div>
+          <a href="https://itunes.apple.com/us/app/id{{ page.appid }}?mt=8">
+          <div><img src="{{ '/assets/images/app_store.svg' | relative_url }}" class="appstore_icon"/></div>
+          </a>
+        </div>
+      </div>
+    </div>
+    {%- else -%}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {%- endif -%}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
