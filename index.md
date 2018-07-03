@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+permalink: /
 ---
 At FingersAkimbo, we make shiny things you use with your thumbs.
 <p />
