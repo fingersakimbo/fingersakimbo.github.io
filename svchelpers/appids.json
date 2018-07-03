@@ -1,0 +1,31 @@
+{
+	"apps": [
+		{
+			"sku": "HRP",
+			"name":"HRPoints",
+			"appid": 1208361501,
+			"released": true,
+			"latestVersion": "1.2",
+			"iap": [
+				"com.fingersakimbo.iap.HRP.REMOVEADS2",
+				"com.fingersakimbo.iap.HRP.TIPJAR1",
+				"com.fingersakimbo.iap.HRP.TIPJAR2",
+				"com.fingersakimbo.iap.HRP.TIPJAR5"
+			]
+		},
+		{
+			"sku": "OCL",
+			"name": "OC Loyalty",
+			"appid": 1148409569,
+			"released": false,
+			"latestVersion": "0.4",
+			"iap": [
+				"com.fingersakimbo.iap.OCL.REMOVEADS",
+				"com.fingersakimbo.iap.OCL.TIPJAR1",
+				"com.fingersakimbo.iap.OCL.TIPJAR2",
+				"com.fingersakimbo.iap.OCL.TIPJAR5"
+			]
+		}
+	]
+}
+
