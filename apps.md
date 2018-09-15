@@ -15,13 +15,14 @@ permalink: /apps/
   <div class="applist-col applist-col-2">
     <a href="/apps/keepcount"><img srcset="
       /assets/app-icons/appicon-1401051569.png 1x,
-      /assets/app-icons/appicon-1401051569@2x.png 2x
+      /assets/app-icons/appicon-1401051569@2x.png 2x,
+      /assets/app-icons/appicon-1401051569@3x.png 3x
     " src="/assets/app-icons/appicon-1401051569.png"
     width="96" height="96" border="0"/><br />Keep the Count</a>
     <p /><p>Keep the count and score at youth baseball and softball games</p>
     <p /><p style="color:red">(Coming Soon)</p>
   </div>
-  
+
   {% comment %}
       <div class="applist-col applist-col-3">
       <a href="/apps/when"><img srcset="
