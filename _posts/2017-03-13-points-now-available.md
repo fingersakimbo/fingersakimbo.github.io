@@ -4,7 +4,8 @@ title: Points is now Available
 ---
 <img srcset="
   /assets/app-icons/appicon-1208361501.png 1x,
-  /assets/app-icons/appicon-1208361501@2x.png 2x
+  /assets/app-icons/appicon-1208361501@2x.png 2x,
+  /assets/app-icons/appicon-1208361501@3x.png 3x
 " src="/assets/app-icons/appicon-1208361501.png"
 width="96" height="96" border="0" style="float: right; padding: 20px;"/>
 We're pleased to announce that [Points] is now available in the iPhone App Store.
