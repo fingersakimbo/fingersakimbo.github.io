@@ -17,4 +17,4 @@ doesn't force you to use it any particular way.
 
 Show your team spirit by customizing your scoreboard to your team color.
 
-_Keep the Count_ is coming soon, only on the iPhone App Store.
+_Keep the Count_ is available only on the iPhone App Store.
