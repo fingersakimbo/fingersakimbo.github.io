@@ -19,7 +19,6 @@ permalink: /apps/
     " src="/assets/app-icons/appicon-1401051569.png"
     width="96" height="96" border="0"/><br />Keep the Count</a>
     <p /><p>Keep the count and score at youth baseball and softball games</p>
-    <p /><p style="color:red">(Coming Soon)</p>
   </div>
   
   {% comment %}
