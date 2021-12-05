@@ -19,7 +19,8 @@ GEM
     concurrent-ruby (1.1.9)
     dnsruby (1.61.7)
       simpleidn (~> 0.1)
-    em-websocket (0.5.3)
+
+em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     ethon (0.15.0)
