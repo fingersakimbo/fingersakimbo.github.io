@@ -79,7 +79,7 @@ There's an update coming out shortly, to support iPhone X. With that release, th
 Existing users will simply convert to paid users, no money required. That's a thank you for being early adopters
 (or converters from BigSprocket's equivalent app). New users will pay (the more than fair price of) $0.99.
 
-Future apps, such as [Keep the Count] will also either be paid apps.
+Future apps, such as [Keep the Count] will also be paid apps.
 
 [reveal]: https://revealapp.com
 [sketch]: https://sketchapp.com
