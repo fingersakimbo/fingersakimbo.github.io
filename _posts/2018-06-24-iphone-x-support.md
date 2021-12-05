@@ -56,7 +56,7 @@ screen configuration.
 
 So, next time you're wondering "why doesn't this app support iPhone X yet?" ... now you know.
 
-When it's released (soon, I promise!), I hope you'll check out [Keep the Count]. I'll look good, no matter 
+When it's released (soon, I promise!), I hope you'll check out [Keep the Count]. It'll look good, no matter 
 which size iPhone you have.
 
 [Keep the Count]: /apps/keepcount
