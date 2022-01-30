@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Points is now Available
+title: Points is Now Available
 ---
 We're pleased to announce that [Points] is now available in the iPhone App Store.
 
