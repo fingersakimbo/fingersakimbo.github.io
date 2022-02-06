@@ -1,0 +1,134 @@
+{
+    "version": "20220206",
+    "feedUrl": "https:\/\/files.manager-tools.com\/files\/public\/feeds\/%@",
+    "taxonomyUrl": "https:\/\/www.manager-tools.com\/taxonomy\/term\/%@\/all\/feed",
+    "tags" : [
+        {
+            "id": "eQ3m",
+            "text": "Mgr Tools",
+            "color": "#0F8076"
+        },
+        {
+            "id": "p5Mb",
+            "text": "MT Basics",
+            "color": "#009E9E"
+        },
+        {
+            "id": "zD8y",
+            "text": "Mgt Basics",
+            "color": "#0F806D"
+        },
+        {
+            "id": "Bz4z",
+            "text": "Career Tools",
+            "color": "#0F806D"
+        },
+        {
+            "id": "jb2G",
+            "text": "Career Basics",
+            "color": "#470F80"
+        },
+        {
+            "id": "Mf8z",
+            "text": "HOF",
+            "color": "#747183"
+        },
+        {
+            "id": "hr8W",
+            "text": "Executive",
+            "color": "#5a5d59"
+        },
+        {
+            "id": "Eg2U",
+            "text": "Book",
+            "color": "#56514f"
+        },
+        {
+            "id": "PY5g",
+            "text": "Hiring",
+            "color": "#919e92"
+        },
+        {
+            "id": "hn9p",
+            "text": "MTO3",
+            "color": "#797a73"
+        },
+        {
+            "id": "UC6m",
+            "text": "Feedback",
+            "color": "#d8d3cd"
+        },
+        {
+            "id": "Bz5Z",
+            "text": "Coaching",
+            "color": "#9E7700"
+        },
+        {
+            "id": "Tk4C",
+            "text": "Delegation",
+            "color": "#4F9E00"
+        },
+        {
+            "id": "ET2V",
+            "text": "New Manager",
+            "color": "#009E28"
+        },
+        {
+            "id": "JC3s",
+            "text": "Project Mgt",
+            "color": "#00289E"
+        },
+        {
+            "id": "rF7L",
+            "text": "Politics",
+            "color": "#4F009E"
+        },
+        {
+            "id": "nn3t",
+            "text": "Presentations",
+            "color": "#9E0077"
+        },
+        {
+            "id": "TW2p",
+            "text": "COVID",
+            "color": "#9E0000"
+        },
+        {
+            "id": "Ln3P",
+            "text": "DiSC",
+            "color": "#009E9"
+        }
+    ],
+    "feeds" : [
+        {
+            "id": "bI3R",
+            "name": "Manager Tools",
+            "tag": "eQ3m",
+            "feedRss": "manager-tools-podcasts.xml"
+        },
+        {
+            "id": "za2s",
+            "name": "Career Tools",
+            "tag": "Bz4z",
+            "feedRss": "career_tools_podcasts.xml"
+        },
+        {
+            "id": "jx6k",
+            "name": "New Managers",
+            "tag": "ET2V",
+            "topicRss": "new-manager.xml"
+        },
+        {
+            "id": "DY8T",
+            "name": "Hall of Fame",
+            "tag": "Mf8z",
+            "topicRss": "hall-of-fame.xml"
+        },
+        {
+            "id": "gW2b",
+            "name": "DiSC",
+            "tag": "Ln3P",
+            "taxonomyRss": "249"
+        }
+    ]
+}
