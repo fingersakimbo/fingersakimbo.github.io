@@ -1,5 +1,5 @@
 {
-    "version": "20220206",
+    "version": "20220206.1",
     "feedUrl": "https:\/\/files.manager-tools.com\/files\/public\/feeds\/%@",
     "taxonomyUrl": "https:\/\/www.manager-tools.com\/taxonomy\/term\/%@\/all\/feed",
     "tags" : [
@@ -16,7 +16,7 @@
         {
             "id": "zD8y",
             "text": "Mgt Basics",
-            "color": "#0F806D"
+            "color": "#60BF30"
         },
         {
             "id": "Bz4z",
@@ -56,7 +56,7 @@
         {
             "id": "UC6m",
             "text": "Feedback",
-            "color": "#d8d3cd"
+            "color": "#9E3C86"
         },
         {
             "id": "Bz5Z",
@@ -96,7 +96,7 @@
         {
             "id": "Ln3P",
             "text": "DiSC",
-            "color": "#009E9"
+            "color": "#303CBF"
         }
     ],
     "feeds" : [
