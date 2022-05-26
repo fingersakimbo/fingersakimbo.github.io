@@ -10,18 +10,10 @@ permalink: /
 ---
 At FingersAkimbo, we make shiny things you use with your thumbs.
 <p />
-Here's some stuff to wrap your thumbs around. Only on iPhone.
+Here's some stuff to wrap your thumbs around. Only on iOS.
 <p>&nbsp;</p>
 
 <p style="text-align:center">
-<a href="/apps/points">
-  <img srcset="
-    /assets/app-icons/appicon-1208361501.png 1x,
-    /assets/app-icons/appicon-1208361501@2x.png 2x
-  " src="/assets/app-icons/appicon-1208361501.png"
-  width="96" height="96" border="0"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="/apps/keepcount">
   <img srcset="
     /assets/app-icons/appicon-1401051569.png 1x,
